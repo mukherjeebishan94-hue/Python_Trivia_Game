@@ -6,4 +6,5 @@ A light, terminal-based trivia game written in Python.
 
 1. Make sure you have Python installed:
    ```bash
-   python --version
+   python main.py 
+   python3 main.py
